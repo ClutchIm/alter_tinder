@@ -3,5 +3,5 @@ secret.txt
 README.md
 .idea
 __pycache__
-db.sqlity3
+db.sqlite3
 
